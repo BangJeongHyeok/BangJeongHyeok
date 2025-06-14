@@ -31,10 +31,10 @@
 <div align="center">
 
 <!-- Total Commits & PRs -->
-<img src="https://github-readme-stats.vercel.app/api?username=정혁님의GithubID&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_title=true&hide_rank=true&hide=issues,contribs" />
+<img src="https://github-readme-stats.vercel.app/api?username=BangJeongHyeok&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_title=true&hide_rank=true&hide=issues,contribs" />
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=정혁님의GithubID&layout=compact&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BangJeongHyeok&layout=compact&theme=default" />
 
 </div>
 
