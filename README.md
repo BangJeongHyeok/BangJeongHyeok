@@ -1,5 +1,11 @@
 <div align="center">
-  
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BangJeongHyeok/BangJeongHyeok/output/github-bomber-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BangJeongHyeok/BangJeongHyeok/output/github-bomber.svg" />
+  <img alt="Contribution Bomber" src="https://raw.githubusercontent.com/BangJeongHyeok/BangJeongHyeok/output/github-bomber.svg" />
+</picture>
+
 ![header](https://images.unsplash.com/photo-1506765515384-028b60a970df?auto=format&fit=crop&w=1350&q=80)
 
 # 정혁 (Jeong Hyeok)
