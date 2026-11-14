@@ -110,7 +110,7 @@
 ## Career
 
 포니게임즈 (<strong>2020 ~ 2022</strong>)  
-- AR과 VR 개발을 하였고, 모바일 게임 출시 및 R&D를 진행하였습니다.
+- 모바일 게임 개발 출시 및 AR과 VR R&D를 진행하였습니다.
 
 <br>
 
@@ -172,7 +172,7 @@ GitHub Contribution Graph 위에서 봄버맨이 돌아다니며 잔디를 폭�
 </td>
 <td width="16.6%" align="center">
 
-<img src="https://cdn.wikimg.net/en/strategywiki/images/thumb/d/d6/Kirby_and_the_Amazing_Mirror_Box_Art.jpg/800px-Kirby_and_the_Amazing_Mirror_Box_Art.jpg" width="130" alt="Kirby & The Amazing Mirror">
+<img src="https://i0.wp.com/operationrainfall.com/wp-content/uploads/2023/05/Kirby-and-the-Amazing-Mirror-featured.jpg?resize=1210%2C642&ssl=1" width="130" alt="Kirby & The Amazing Mirror">
 
 <br>
 
