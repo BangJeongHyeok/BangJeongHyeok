@@ -75,7 +75,7 @@
 <br>
 
 <strong>Obsidian</strong>  
-디지털 시대에 나에게 맞는 일기장
+디지털 시대의 일기장
 
 </td>
 
